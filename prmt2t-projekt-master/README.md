@@ -1,0 +1,1 @@
+Ścieżka głównego  pliku java Akari3/src/main/java/Akari.java
